@@ -1,0 +1,7 @@
+{
+  "name": "ليدجر برو - LedgerPro Intelligent Accounting",
+  "description": "نظام محاسبي متكامل وعصري لإدارة المخزون، المبيعات، المشتريات، والعملاء مع مساعد ذكي مدعوم بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -1,0 +1,27 @@
+
+{
+  "short_name": "ليدجر برو",
+  "name": "ليدجر برو - LedgerPro Intelligent Accounting",
+  "description": "نظام محاسبي ذكي لإدارة المخزون والمبيعات والحسابات مع مساعد AI.",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Ld89H48f/ledgerpro-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/Ld89H48f/ledgerpro-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#0f172a",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait"
+}
